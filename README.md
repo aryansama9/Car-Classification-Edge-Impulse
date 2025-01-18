@@ -11,3 +11,5 @@ This is a project from edge impulse which is used to detect cars.
    - Adjust the Neural Network settings through trial and error adding the batch size by the batch size, number of epochs (training cycles), adding a learning rate, picking a % for the Validation set to get the f1 
      score and confusion matrix.
 
+3. **Changes**
+   - Needed to reduce the amount of images to 202 due to Edge Impulse's usage limit, the training time for all images was taking a day
