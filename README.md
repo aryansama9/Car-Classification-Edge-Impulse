@@ -12,4 +12,4 @@ This is a project from edge impulse which is used to detect cars.
      score and confusion matrix.
 
 3. **Changes**
-   - Needed to reduce the amount of images to 202 due to Edge Impulse's usage limit, the training time for all images was taking a day
+   - Needed to reduce the amount of images to 202 due to Edge Impulse's usage limit, the training cycle for was taking a day (and was automatically set to 60 epochs).
